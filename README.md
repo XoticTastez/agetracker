@@ -6,7 +6,7 @@ If any of the timespan specifications equal zero, they will not be shown.
 
 To add a new entry, enter `+` followed by the name.
 To remove an existing entry, enter `-` followed by the name.
-Names are case-sensitive, and year of birth's millenium/century should not be omitted (`19` equates to the year 19, not 2019).
+Names are case-sensitive, and year of birth's millennium/century should not be omitted (`19` equates to the year 19, not 2019).
 
 ### Credits
 Icon by Smashicons at [Flaticon](https://www.flaticon.com/free-icon/hourglass_148855)
