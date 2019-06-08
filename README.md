@@ -1,5 +1,5 @@
 # AgeTracker
-AgeTracker is a console application that allows you to keep track of the age of things, in the following format: `1y 2m 3w 4d`
+AgeTracker is a console application that allows you to keep track of ages, in the following format: `1y 2m 3w 4d`
 
 For example, on June 7th, 2019, my rat Chief, born on April 16th, 2019, was displayed by AgeTracker as being `1m 3w 1d` old.
 If any of the timespan specifications equal zero, they will not be shown.
