@@ -16,7 +16,7 @@ init = True
 def show_list():
     global names, init
     for row in reader(open(path, newline='')):
-        print(row[0])
+        print(f'{row[0]}  ({row[1]}-{row[2]}-{row[3]})')
         bd = date(int(row[1]), int(row[2]), int(row[3]))
         diff = relativedelta(today, bd)
         output = '  '
