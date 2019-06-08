@@ -11,4 +11,4 @@ Names are case-sensitive, and year of birth's millenium/century should not be om
 ### Credits
 Icon by Smashicons at [Flaticon](https://www.flaticon.com/free-icon/hourglass_148855)
 
-Compiled with [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze) and IExpress
+Compiled with [PyInstaller](https://github.com/pyinstaller/pyinstaller)
